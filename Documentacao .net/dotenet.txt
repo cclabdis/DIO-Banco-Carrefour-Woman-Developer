@@ -1,0 +1,102 @@
+
+
+Introdução ao Ecossistema .NET & Documentação
+
+1. O que é .NET? E ASP.NET?
+
+.NET  - Plataforma de desenvolvimento com diversas ferramentas, linguagens de programação  e bibliotecas que permitem o desenvolvimento de diversos tipos de aplicações.
+
+
+ASP.NET - Framework que estende .NET para a criação de web apps.
+
+
+.net
+Gratuita e de software livre
+Plataforma cruzada
+Tipos de aplicação:
+Web
+Mobile
+Desktop
+Microservices
+Cloud
+Machine Learning
+Jogos
+Internet das Coisas
+
+2. Especificação das APIs que são comuns às implementações .NET
+
+https://docs.microsoft.com/pt-br/dotnet/standard/net-standard?tabs=net-standard-1-0
+
+Ambientes de desenvolvimento ( IDEs)
+Visual Studio ( Mac e Windows)
+Visual Studio Code
+Codespaces ( Online)
+ 
+Linguagens de programação
+C#
+F#
+Visual Basic
+
+
+
+Bibliotecas para desenvolvimento e execução de aplicações .NET
+SDK
+Runtime
+NUGET:  Gerenciador de Pacotes
+Acesso a dados 
+ORM -> Entity Framework Core
+LINQ - consulta integrada à linguagem
+
+
+
+
+
+
+ Ambientes CI/CD
+GitHub Actions
+Azure Devops
+Cake / Fake
+
+Gerenciamento Automático de memória
+
+
+##
+Sobre ASP.NET e ASP.NET Core ## 
+
+Aplicações Web
+páginas web
+REST APIs
+microservices
+hubs
+Processamento de requisições web ( C# e F#)
+Criação de páginas da web de forma dinâmica
+Bibliotecas para web patterns  
+Sistema de autenticação
+Extensões para produtividade
+
+
+
+------------------------
+
+Repositório oficial dotnet no github -> core/core-repos.md at main · dotnet/core (github.com)
+
+Documentação da plataforma .NET -> https://docs.microsoft.com/pt-br/dotnet/
+
+Site oficial .NET Foundation -> .NET Foundation (dotnetfoundation.org)
+
+------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
